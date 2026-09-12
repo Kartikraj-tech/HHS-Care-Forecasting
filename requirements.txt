@@ -1,0 +1,13 @@
+# HHS Care Load Forecasting Project
+# Core dependencies used by the Streamlit dashboard and forecasting notebooks
+
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+
+# Notebook/runtime support (needed only if running the .ipynb files locally)
+jupyter
+ipykernel
